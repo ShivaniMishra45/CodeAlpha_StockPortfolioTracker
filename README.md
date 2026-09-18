@@ -68,5 +68,5 @@ CodeAlpha_StockPortfolioTracker/
 👩‍💻 Internship
 This project is completed as part of the CodeAlpha Python Programming Internship.
 
-Author
+ Author
 Shivani Mishra
